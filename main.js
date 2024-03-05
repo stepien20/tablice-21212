@@ -44,5 +44,11 @@ but1.addEventListener(`click`,evt=>{
 const but2=document.querySelector(`#but2`)
 but2.addEventListener(`click`,evt=>{
     evt.preventDefault()
+    const opcja=document.querySelector(`input[name="operacja"]:checked`).id
+    switch (opcja){
+        case "city":
+        
+        break;
 
+    }
 })
