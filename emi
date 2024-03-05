@@ -1,0 +1,17 @@
+let inneDane = [
+    { nazwa: "Jan", miasto: "Gdynia", wiek: 33 },
+    { nazwa: "Katarzyna", miasto: "Olsztyn", wiek: 29 },
+    { nazwa: "Tadeusz", miasto: "Sopot", wiek: 45 },
+    { nazwa: "Ewelina", miasto: "Elbląg", wiek: 27 },
+    { nazwa: "Wojciech", miasto: "Toruń", wiek: 36 },
+    { nazwa: "Małgorzata", miasto: "Kielce", wiek: 31 },
+    { nazwa: "Adam", miasto: "Radom", wiek: 40 },
+    { nazwa: "Aleksandra", miasto: "Opole", wiek: 28 },
+    { nazwa: "Robert", miasto: "Rybnik", wiek: 34 },
+    { nazwa: "Dominika", miasto: "Bielsko-Biała", wiek: 39 },
+    { nazwa: "Tomasz", miasto: "Częstochowa", wiek: 26 },
+    { nazwa: "Justyna", miasto: "Ruda Śląska", wiek: 32 },
+    { nazwa: "Michał", miasto: "Dąbrowa Górnicza", wiek: 28 },
+    { nazwa: "Magdalena", miasto: "Zabrze", wiek: 35 },
+    { nazwa: "Piotr", miasto: "Bytom", wiek: 37 }
+];
